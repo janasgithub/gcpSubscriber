@@ -1,0 +1,22 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/janasgithub/gcpSubscriber.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/pubsub": "^2.8.0"
+  },
+  "bugs": {
+    "url": "https://github.com/janasgithub/gcpSubscriber/issues"
+  },
+  "homepage": "https://github.com/janasgithub/gcpSubscriber#readme"
+}
