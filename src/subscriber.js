@@ -3,7 +3,7 @@
 function main(timeout = 15,maxMessagesInprogess=15) {
   // [START pubsub_subscriber_async_pull]
   // [START pubsub_quickstart_subscriber]
-  const subscriptionName = "projects/app-launcher-dev-5ef0fa0a/subscriptions/emm-device-events-internal-sub"
+  const subscriptionName = "" //subscriber details
   // Imports the Google Cloud client library
   const { PubSub } = require("@google-cloud/pubsub");
 
